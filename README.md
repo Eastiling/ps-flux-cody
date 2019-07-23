@@ -1,3 +1,6 @@
+Full Credit for this code goes to: Cory House on PluralSight.
+If you want to do his course yourself: https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
